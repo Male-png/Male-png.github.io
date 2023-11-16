@@ -828,7 +828,7 @@ Banner Style
 }
 
 .main-banner:after {
-  content: url(../imagenes/principal right.jpg);
+  content: url(../imagenes/banner right.jpg);
   top: -1px;
   right: 0;
   position: absolute;
